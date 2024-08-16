@@ -70,22 +70,6 @@ cd frontend
 npm install
 npm start
 ```
-Now, navigate to `localhost:3000` in your browser. 
-The Backend API will be running at `localhost:5000`.
-<br>
-# Error Solution
-
-If you encounter a network error while signing up, follow these steps to resolve it:
-
-1. Navigate to the `src > redux > userHandle.js` file.
-
-2. Add the following line after the import statements:
-
-```javascript
-const REACT_APP_BASE_URL = "http://localhost:5000";
-```
-
-3. Replace all instances of `process.env.REACT_APP_BASE_URL` with `REACT_APP_BASE_URL`.
 
 The issue arises because the `.env` file in the frontend may not work for all users, while it works for me.
 
