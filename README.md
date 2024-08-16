@@ -1,5 +1,5 @@
 <h1 align="center">
-    SHOPCART: Ecommerce Site
+    E-Commerce Website Using MERN
 </h1>
 
 <h3 align="center">
