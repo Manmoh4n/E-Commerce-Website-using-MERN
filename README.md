@@ -71,9 +71,7 @@ npm install
 npm start
 ```
 
-The issue arises because the `.env` file in the frontend may not work for all users, while it works for me.
 
-These steps should resolve the network error in the frontend. If the issue persists, feel free to contact me for further assistance.
 
 
 
