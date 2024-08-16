@@ -9,11 +9,7 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 <br>
 
-<h3>ScreenShot Of Project</h3>
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/af5475d1-e030-43f2-a3f9-66993260c868">
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+
 
 
 
@@ -41,6 +37,21 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 - **Product Management:** Sellers can add products with detailed information and set their prices. They can also check which customers have added their products to their carts.
 
 - **Order Tracking:** Sellers can monitor the products ordered by customers, helping them stay organized and fulfill orders efficiently.
+
+<h3>ScreenShot Of Project</h3>
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/af5475d1-e030-43f2-a3f9-66993260c868">
+
+
+![image](https://github.com/user-attachments/assets/3597c100-c68e-47ad-9617-0ef617d52749)
+
+
+![image](https://github.com/user-attachments/assets/9e9781c6-6fe2-4c69-9d93-e26a5b9132f7)
+
+
+![image](https://github.com/user-attachments/assets/dcad68c0-2c08-4ad5-9a1f-9eeed4347ae1)
+
+
+
 
 ## Technologies Used
 
