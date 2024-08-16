@@ -91,9 +91,5 @@ The issue arises because the `.env` file in the frontend may not work for all us
 
 These steps should resolve the network error in the frontend. If the issue persists, feel free to contact me for further assistance.
 
-Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
-# Deployment
-* Render - server side
-* Vercel - client side
 
